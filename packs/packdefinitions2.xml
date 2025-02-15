@@ -8,7 +8,7 @@
         <packcommoncrit>
             <field>Release</field>
             <eval>IS</eval>
-            <data>Premiere</data>
+            <data>PR</data>
         </packcommoncrit>
         <chance>
             <kind>
@@ -310,7 +310,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -323,7 +323,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -336,7 +336,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -651,7 +651,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -664,7 +664,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -677,7 +677,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2269,7 +2269,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2282,7 +2282,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2295,7 +2295,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2375,7 +2375,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2388,7 +2388,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2401,7 +2401,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2469,7 +2469,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2482,7 +2482,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2495,7 +2495,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2563,7 +2563,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2576,7 +2576,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2589,7 +2589,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2657,7 +2657,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2670,7 +2670,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2683,7 +2683,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2751,7 +2751,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2764,7 +2764,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2777,7 +2777,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2845,7 +2845,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2858,7 +2858,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -2871,7 +2871,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>CONTAINS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -3269,7 +3269,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>I.K.C. K'Vort</data>
+                    <data>I.K.S. K'Vort</data>
                 </crit>
             </kind>
             <kind>
@@ -3277,7 +3277,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>I.K.C. Vor'Cha</data>
+                    <data>I.K.S. Vor'Cha</data>
                 </crit>
             </kind>
             <kind>
@@ -3285,7 +3285,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>I.K.C. Vorn</data>
+                    <data>I.K.S. Vorn</data>
                 </crit>
             </kind>
             <kind>
@@ -4420,7 +4420,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -4433,7 +4433,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -4446,7 +4446,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -4761,7 +4761,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -4774,7 +4774,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>
@@ -4787,7 +4787,7 @@
                 <crit>
                     <field>Release</field>
                     <eval>IS</eval>
-                    <data>Premiere</data>
+                    <data>PR</data>
                 </crit>
                 <crit>
                     <field>Info</field>

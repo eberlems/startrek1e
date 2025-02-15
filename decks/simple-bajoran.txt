@@ -4,7 +4,7 @@
 1	Furel
 1	Ru'afo
 1	First Minister Shakaar
-2	Kivas Fajo - Collector
+2	Kivas Fajo: Collector
 1	Li Nalas
 1	Lupaza
 1	The Emissary

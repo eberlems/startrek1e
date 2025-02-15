@@ -8,7 +8,7 @@
         <packcommoncrit>
             <field>Release</field>
             <eval>IS</eval>
-            <data>premiere</data>
+            <data>PR</data>
         </packcommoncrit>
         <chance>
             <kind>

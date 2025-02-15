@@ -1,0 +1,19 @@
+Name	Set	ImageFile	Release	Info	Property	Uniqueness	Type	Mission/ Dilemma Type	Affil	Class	Int/Rng	Cun/Wpn	Str/Shd	Points	Region	Quadrant	Span	Icons	Staff	Characteristics/ Keywords	Requires	Persona	Command	Lore	Reports	Names	Text
+Rogue Borg Mercenaries	renamed	renamed	premiere	 C			Interrupt			 									 								Renamed to Rogue Borg
+I.K.C. Bortas	renamed	renamed	premiere	 R			Ship			 									 								Renamed to I.K.S. Bortas
+I.K.C. Buruk	renamed	renamed	premiere	 R			Ship			 									 								Renamed to I.K.S. Buruk
+I.K.C. Hegh'ta	renamed	renamed	premiere	 R			Ship			 									 								Renamed to I.K.S. Hegh'ta
+I.K.C. K'Vort	renamed	renamed	premiere	 C			Ship			 									 								Renamed to Rogue Borg
+I.K.C. Pagh	renamed	renamed	premiere	 R		Ship			 									 								Renamed to I.K.S. K'Vort
+I.K.C. Qu'Vat	renamed	renamed	premiere	 R			Ship			 									 								Renamed to I.K.S. Qu'Vat
+I.K.C. Vor'Cha	renamed	renamed	premiere	 C			Ship			 									 								Renamed to I.K.S. Vor'Cha
+I.K.C. Vorn	renamed	renamed	premiere	 U			Ship			 									 								Renamed to I.K.S. Vorn
+U.S.S. Brittain	renamed	renamed	premiere	 U			Ship			 									 								Renamed to U.S.S. Brattain
+J'Ddan	renamed	renamed	premiere	 C			Personnel			 									 								Renamed to J'Dan
+Neela Daren	renamed	renamed	premiere	 U			Personnel			 									 								Renamed to Nella Daren
+Eric Pressman	renamed	renamed	premiere	 U			Personnel			 									 								Renamed to Erik Pressman
+Jaglom Shrek - Information Broker	renamed	renamed	premiere	 R			Interrupt			 									 								Renamed to Jaglom Shrek: Information Broker
+Incoming Message - Federation	renamed	renamed	premiere	 U			Interrupt			 									 								Renamed to Incoming Message: Federation
+Incoming Message - Klingon	renamed	renamed	premiere	 U			Interrupt			 									 								Renamed to Incoming Message: Klingon
+Incoming Message - Romulan	renamed	renamed	premiere	 U			Interrupt			 									 								Renamed to Incoming Message: Romulan
+REM Fatigue Hallucinations	renamed	renamed	premiere	 U			Dilemma			 									 								Renamed to REM Fatigue

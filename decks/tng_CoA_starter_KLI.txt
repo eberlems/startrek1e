@@ -22,7 +22,7 @@
 1	Dokar
 1	Klingon Death Yell
 1	Divok
-1	J'Ddan
+1	J'Dan
 1	Larg
 1	Qup'ta
 1	Vol'Jin

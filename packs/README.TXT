@@ -17,18 +17,18 @@ three pack definition files:
 
 + packdefinitions3.xml for definitions of 8 different Voyager Starters.
 
-Images of all packs are also loacated in the directory /packs and 
+Images of all packs are also located in the directory /packs and 
 should not be renamed. Images were taken form stccg.germes.org.
 
 
 NEW 
 
 V. 1.1
-The definition for DS9 Starters was altered to reflect new informations.
+The definition for DS9 Starters was altered to reflect new information.
 DS9 Starters were printed semifixed on an extra 80 card sheet. 2 sheets
 account for five possible setups of fixed cards in the starter. The 
 actual position of single cards is not known, so the Lackey version is
-a shot in the dark, but afaik ressembling the real starters quite well.
+a shot in the dark, but afaik resembling the real starters quite well.
 
 
 KNOWN LIMITATIONS
@@ -40,7 +40,7 @@ the plugin can only deal with integers.
 The distribution of U and C in the sets MM, Borg, HA and TMP is not 
 well documented a C:U ratio of 2:1 for MM, Borg, HA and a ratio of 3:2
 for TMP was assumed for the pool to get a working base. Then different 
-probabilites for different ratios of C:U in a pack were calculated and 
+probabilities for different ratios of C:U in a pack were calculated and 
 these probabilities were used in the pack definition.
 
 The distribution of cards in the Voyager Starters is not known. Some 

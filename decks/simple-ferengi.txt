@@ -9,7 +9,7 @@
 1	Rom
 1	Ferengi PADD
 1	Ferengi Whip
-2	Kivas Fajo - Collector
+2	Kivas Fajo: Collector
 1	Leck
 1	Lore
 1	Quark

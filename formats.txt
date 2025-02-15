@@ -206,5 +206,6 @@
 		<set>Virtual_b06_Modern_Open_Warp</set>
 		<set>Virtual_b06_Open_Warp</set>
 		<set>Trad_Open_Warp</set>
+		<set>renamed</set>
 	</format>
 </formatdefinitions>
