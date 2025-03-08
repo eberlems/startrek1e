@@ -1851,6 +1851,34 @@ NEW
         Quinn *VP
         Strategema
 
+5.1.4
+-----
+(Eberlems)
+    ->Add
+        1st Rule of Acquisition *VP
+        Parallel Romance *VP
+        Battle Bridge Door: Auxiliary Control *VP
+        Preparation *VP
+        The Power *VP
+        Answer Distress Signal *VP
+        Shakaar Edon *VP
+        Miles O'Brien *VP
+        Dereth *VP
+        I.K.S. Negh'Var *VP
+        Terok Nor (Alternate Universe Twilight) *VP
+        Rebuild Society *VP
+        Dathon *VP
+        Stand-Off *VP
+        Victory Is Life *VP
+        Donald Varley *VP
+        Iconian Gateway *VP
+    ->Changed
+        Dathon
+        Donald Varley
+        Iconian Gateway
+        Smooth As an Android's Bottom?
+        Victory Is Life
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

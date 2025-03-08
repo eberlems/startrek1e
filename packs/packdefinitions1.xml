@@ -15,7 +15,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -23,7 +23,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -31,7 +31,7 @@
                 <qty>11</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>

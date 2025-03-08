@@ -1,6 +1,6 @@
-startrek1e	02-15-25
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	41729
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3483035
+startrek1e	03-08-25
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	40433
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3528936
 plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	1178522
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	665647
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	699874
@@ -46,8 +46,8 @@ plugins/startrek1e/packs/firstcontact_pack.jpg	https://raw.githubusercontent.com
 plugins/startrek1e/packs/holodeckadventures_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/holodeckadventures_pack.jpg	7904
 plugins/startrek1e/packs/mirrormirror_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/mirrormirror_pack.jpg	-3126
 plugins/startrek1e/packs/otsd_box.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/otsd_box.jpg	12178
-plugins/startrek1e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions1.xml	4292197
-plugins/startrek1e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions2.xml	8034528
+plugins/startrek1e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions1.xml	4293550
+plugins/startrek1e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions2.xml	8031822
 plugins/startrek1e/packs/packdefinitions3.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions3.xml	3320510
 plugins/startrek1e/packs/premiere_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/premiere_pack.jpg	-1248
 plugins/startrek1e/packs/premiere_starter.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/premiere_starter.jpg	5795
@@ -80,8 +80,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/eberlems/
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	1440383
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	7329668
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	1438362
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	7886210
 plugins/startrek1e/sets/Overlays.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Overlays.txt	87493
 plugins/startrek1e/sets/Rework.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Rework.txt	9588738
 plugins/startrek1e/sets/Renamed_cards.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Renamed_cards.txt	150086
