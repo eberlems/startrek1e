@@ -1851,7 +1851,7 @@ NEW
         Quinn *VP
         Strategema
 
-5.1.4
+5.1.5
 -----
 (Eberlems)
     ->Add
@@ -1879,6 +1879,11 @@ NEW
         Smooth As an Android's Bottom?
         Victory Is Life
 
+5.1.5a
+-----
+(Eberlems)
+    ->Changed image locations
+    
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
