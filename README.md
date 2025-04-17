@@ -8,7 +8,9 @@ branch the repo branch playable
 get new card data from [https://www.trekcc.org/lackey2020/](https://www.trekcc.org/lackey/2020.php)
 
 replace the [sets/Virtual.txt](sets/Virtual.txt) and [sets/Physical.txt](sets/Physical.txt) with the new data.
+Errata and new cards will need changes to filenames.
 place new images in sets/setimages/general/ as border trimmed 320x462px jpg
+
 
 update 
 [changelog.txt](changelog.txt)
