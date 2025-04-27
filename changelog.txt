@@ -1892,7 +1892,18 @@ NEW
         Obsession
         Cybernetis Experience
         Cybernetis Experience *VP
-    
+
+5.1.6
+-----
+(Eberlems)
+    ->Add
+            AP25 VPs
+    ->Changed 
+        Gaps in normal Space
+        Phoenix
+        Phoenix VP
+        Scientific Diplomacy
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

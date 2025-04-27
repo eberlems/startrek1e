@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>250201</dateYYMMDD>
+<dateYYMMDD>250426</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -182,7 +182,6 @@
 <removepath>sets/setimages/general/286VP.jpg</removepath>
 <removepath>sets/setimages/general/286VPALT.jpg</removepath>
 <removepath>sets/setimages/general/286VPALT2.jpg</removepath>
-
 <removepath>sets/setimages/general/Strategema_AGT_B.jpg</removepath>
 <removepath>sets/setimages/general/Strategema_CS_B.jpg</removepath>
 <removepath>sets/setimages/general/Strategema_RR_B.jpg</removepath>
@@ -193,4 +192,8 @@
 <removepath>sets/setimages/general/81VP.jpg</removepath>
 <removepath>sets/setimages/general/121VP.jpg</removepath>
 <removepath>sets/setimages/general/coldfront_21.jpg</removepath>
+<removepath>sets/setimages/general/phoenix.jpg</removepath>
+<removepath>sets/setimages/general/58VP.jpg</removepath>
+<removepath>sets/setimages/general/tng_30V.jpg</removepath>
+<removepath>sets/setimages/general/PR75.jpg</removepath>
 </uninstall>
