@@ -1897,12 +1897,18 @@ NEW
 -----
 (Eberlems)
     ->Add
-            AP25 VPs
+        AP25 VPs
     ->Changed 
         Gaps in normal Space
         Phoenix
         Phoenix VP
         Scientific Diplomacy
+
+5.1.7
+-----
+(Eberlems)
+    ->Add
+        Dramatis Personae
 
 ------------------------------
 Plugin former main maintainer - Scox
