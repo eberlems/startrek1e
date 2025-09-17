@@ -1910,6 +1910,22 @@ NEW
     ->Add
         Dramatis Personae
 
+5.1.8
+-----
+(Eberlems)
+    ->Add
+        Wormhole Negotiations *VP
+        Maternal Instinct *VP
+    ->Changed
+        Scanner Interference
+        Prepare Landing Party
+        Preserver Obelisk
+        Preserver Obelisk *VP
+        Terok Nor (Alternate Universe Twilight) *VP
+        Rebuild Society *VP
+        Hypospray
+        Kevin Uxbridge: Convergence
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
