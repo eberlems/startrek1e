@@ -17,3 +17,6 @@ Incoming Message - Federation	renamed	renamed	premiere	 U			Interrupt			 							
 Incoming Message - Klingon	renamed	renamed	premiere	 U			Interrupt			 									 								Renamed to Incoming Message: Klingon
 Incoming Message - Romulan	renamed	renamed	premiere	 U			Interrupt			 									 								Renamed to Incoming Message: Romulan
 REM Fatigue Hallucinations	renamed	renamed	premiere	 U			Dilemma			 									 								Renamed to REM Fatigue
+Incoming Message - Bajoran	renamed	renamed	ds9	U			Interrupt																				Renamed to Incoming Message: Bajoran
+Incoming Message - Cardassian	renamed	renamed	ds9	U			Interrupt																				Renamed to Incoming Message: Cardassian
+Incoming Message - Ferengi	renamed	renamed	roa	C			Interrupt																				Renamed to Incoming Message: Ferengi

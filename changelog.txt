@@ -1926,6 +1926,37 @@ NEW
         Hypospray
         Kevin Uxbridge: Convergence
 
+5.1.9
+-----
+(Eberlems)
+    ->Add
+        All Good Things Traditional
+        Ancient Computer (Premiere Traditional) *VP
+        Matriarchal Society (Premiere Traditional) *VP
+        Q-Net (Premiere Traditional) *VP
+        Hunt for DNA Program (Premiere Traditional) *VP
+        Dr. Selar (Premiere Traditional) *VP
+        Mot the Barber (Premiere Traditional) *VP
+        Duras (Premiere Traditional) *VP
+        Dr. Reyga (Premiere Traditional) *VP
+        Devoras (Premiere Traditional) *VP
+        Time Travel Pod *VP
+        Crystalline Entity *VP
+        Anti-Time Anomaly *VP
+        Distortion of Space/Time Continuum *VP
+        Repair Mission *VP
+        Erik Pressman *VP
+        Kurn *VP
+        Ocett *VP
+        Khazara *VP
+    ->Changed
+        Children of Light
+        Incoming Message: Bajoran
+        Incoming Message: Cardassian
+        Incoming Message: Ferengi
+        Klim Dokachin
+        Replicator Accident
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
