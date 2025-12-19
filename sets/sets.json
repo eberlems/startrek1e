@@ -614,5 +614,12 @@
     "abbr": "AGTT",
     "code": "AGTT",
     "virtual": true
+  },
+  {
+    "id": "259",
+    "name": "All Good Things Remastered",
+    "abbr": "AGTR",
+    "code": "AGTR",
+    "virtual": true
   }
 ]

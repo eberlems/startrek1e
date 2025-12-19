@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>251115</dateYYMMDD>
+<dateYYMMDD>251219</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -224,4 +224,16 @@
 <removepath>sets/setimages/general/incomingmessageferengi</removepath>
 <removepath>sets/setimages/general/klimdokachin_a</removepath>
 <removepath>sets/setimages/general/replicatoraccident</removepath>
+<removepath>sets/setimages/general/211thruleofacquisition</removepath>
+<removepath>sets/setimages/general/espionagebajoranoncardass</removepath>
+<removepath>sets/setimages/general/oobydooby</removepath>
+<removepath>sets/setimages/general/6V-Shape-shift-Inhibitor</removepath>
+<removepath>sets/setimages/general/Strategema_RR_C</removepath>
+<removepath>sets/setimages/general/46VP</removepath>
+<removepath>sets/setimages/general/ST1E-ENAGT016</removepath>
+<removepath>sets/setimages/general/73VP</removepath>
+<removepath>sets/setimages/general/KMS_Promo</removepath>
+<removepath>sets/setimages/general/tngsup_35Va</removepath>
+<removepath>sets/setimages/general/104VP</removepath>
+<removepath>sets/setimages/general/116VP</removepath>
 </uninstall>

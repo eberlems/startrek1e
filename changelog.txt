@@ -1957,6 +1957,12 @@ NEW
         Klim Dokachin
         Replicator Accident
 
+5.2.0
+-----
+(Eberlems)
+    ->Add
+        All Good Things Remastered
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
