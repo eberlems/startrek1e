@@ -28,6 +28,6 @@ Set new date at the top of
 [updatelist.txt](updatelist.txt)
 
 generate new checksum 
-/mkupdate plugins/startrek1e/updatelist.txt
+```/mkupdate plugins/startrek1e/updatelist.txt```
 
 make new PR

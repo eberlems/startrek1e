@@ -20,3 +20,7 @@ REM Fatigue Hallucinations	renamed	renamed	premiere	 U			Dilemma			 									 		
 Incoming Message - Bajoran	renamed	renamed	ds9	U			Interrupt																				Renamed to Incoming Message: Bajoran
 Incoming Message - Cardassian	renamed	renamed	ds9	U			Interrupt																				Renamed to Incoming Message: Cardassian
 Incoming Message - Ferengi	renamed	renamed	roa	C			Interrupt																				Renamed to Incoming Message: Ferengi
+Espionage - Dominion on Federation	renamed	renamed	dom	C			Event																				Renamed to Espionage: Dominion on Federation
+Espionage - Dominion on Klingon	renamed	renamed	dom	C			Event																				Renamed to Espionage - Dominion on Klingon
+Espionage - Dominion on Romulan	renamed	renamed	dom	C			Event																				Renamed to Espionage - Dominion on Romulan
+Engineering Kit (Voyager)	renamed	renamed	voy	S			Event																				Renamed to Engineering Kit (Premiere Remastered) (Voyager)

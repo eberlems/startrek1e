@@ -1963,6 +1963,86 @@ NEW
     ->Add
         All Good Things Remastered
 
+5.2.1
+-----
+(Eberlems)
+    ->Add
+        To the Journey
+        Ancient Computer (Premiere Traditional) *VP
+        Matriarchal Society (Premiere Traditional) *VP
+        Q-Net (Premiere Traditional) *VP
+        Hunt for DNA Program (Premiere Traditional) *VP
+        Dr. Selar (Premiere Traditional) *VP
+        Mot the Barber (Premiere Traditional) *VP
+        Duras (Premiere Traditional) *VP
+        Dr. Reyga (Premiere Traditional) *VP
+        Devoras (Premiere Traditional)
+        Icheb* *VP
+        Icheb *VP
+        Humuhumunukunukuapua'a *VP
+        Soong-type Android *VP
+        Lal *VP
+        FGC-47 Research *VP
+    ->Changed
+        Answer Distress Signal *VP
+        Auto-Destruct Sequence (Voyager)
+        Barclay's Protomorphosis Disease *VP
+        Battle Bridge Door: Auxiliary Control *VP
+        Betazoid Gift Box *VP
+        Cloaked Mission
+        Cytherians *VP
+        Dereth *VP
+        Distortion of Space/Time Continuum (Voyager)
+        Donald Varley *VP
+        Enemies of the State
+        Engineering Kit (Voyager)
+        Entertaining Display
+        Escape Pod
+        Escape Pod (Voyager)
+        Espionage: Cardassian on Bajoran
+        Espionage: Cardassian on Federation
+        Espionage: Cardassian on Klingon
+        Espionage - Dominion on Federation
+        Espionage - Dominion on Klingon
+        Espionage - Dominion on Romulan
+        Espionage: Romulan on Bajoran
+        Espionage: Romulan on Cardassian        
+        Espionage: Romulan on Vulcan
+        Espionage: Starfleet on Vulcan
+        Espionage: Vulcan on Klingon
+        Espionage: Vulcan on Starfleet
+        Expose Covert Supply
+        Female's Love Interest & Garbage Scow *VP
+        Followers of the One
+        Holo-Projectors (Holodeck Adventures)
+        Holo-Projectors (Homefront VI)
+        Iconian Gateway *VP
+        I.K.S. Bortas *VP
+        I.K.S. Negh'Var *VP
+        Jean-Luc Picard *VP
+        Kivas Fajo - Collector *VP
+        Male's Love Interest (Voyager)
+        Masaka Transformations
+        Maternal Instinct *VP
+        Medical Kit (Voyager)
+        Medical Tricorder *VP
+        Miles O'Brien *VP
+        Parallel Romance *VP
+        Preparation *VP
+        Q2 *VP
+        Shakaar Edon *VP
+        Singha Refugee Camp
+        Stand-Off *VP
+        Starfleet Type II Phaser (Voyager)
+        The Power *VP
+        The Traveler: Transcendence *VP
+        Thought Fire
+        Tomalak *VP
+        U.S.S. Enterprise (Borderless Promos)
+        Victory Is Life *VP
+        Where No One Has Gone Before
+        Wormhole *VP
+        
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
