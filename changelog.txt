@@ -2042,7 +2042,21 @@ NEW
         Victory Is Life *VP
         Where No One Has Gone Before
         Wormhole *VP
-        
+
+5.2.2
+-----
+(Eberlems)
+    ->Changed
+        Temporal Conduit
+        Ocular Implants
+        Humuhumunukunukupua'a
+        I'm a Doctor Not a Bricklayer
+        FGC-47 Research
+        Lal
+        10 and 01
+        Icheb
+        Soong-type Android
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
