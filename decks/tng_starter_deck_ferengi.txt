@@ -1,54 +1,63 @@
-1	Kurdon
-1	Business Gambit
-1	Will Riker
-1	Vekor
-1	Vash (The Next Generation)
-1	Koral (The Next Generation)
-1	Dr. Syrus
-1	Captain Picard
-1	Quark (The Next Generation)
-1	DaiMon Bok
-1	Mordoc (The Next Generation)
-1	Dr. Arridor (The Next Generation)
-1	Kol (The Next Generation)
-1	Kayron
-1	Dr. Reyga (Life From Lifelessness)
-2	Levin
-2	Obol
-2	Rata
-2	Baht
-2	Ferengi Scout Vessel
 2	Get It Done
+1	Business Gambit
+2	Baht
+1	Captain Picard
+1	DaiMon Bok
+1	Dr. Arridor (The Next Generation)
 2	Gozar
+1	Kayron
+1	Kol (The Next Generation)
+2	Levin
+1	Mordoc (The Next Generation)
+2	Obol
+1	Quark (The Next Generation)
+2	Rata
+1	Dr. Syrus
+1	Koral (The Next Generation)
+1	Vash (The Next Generation)
+1	Will Riker
+2	Ferengi Scout Vessel
+1	Kurdon
 2	Surprise Party
+1	Dr. Reyga (Life From Lifelessness)
+1	Vekor
 Missions:
-1	The Last Outpost
-1	Steal Technology
-1	Search for Weapons
-1	Revenge Plot
-1	Host Metaphasic Shielding Test
 1	Acquire Surplus Ships
+1	Host Metaphasic Shielding Test
+1	Revenge Plot
+1	Steal Technology
+1	The Last Outpost
+1	Search for Weapons
 Seed+Dil:
-1	Dignitaries and Witnesses
-1	Magnetic Field Disruptions
+1	Chula: The Chandra
+1	Chula: The Lights
+1	Flim-Flam Artist
+1	Friendly Fire
 1	Maglock
+1	Murder Investigation
+1	Picking Up the Pieces
+1	Punishment Box
+1	Dangerous Climb
+1	Dignitaries and Witnesses
+1	Gomtuu Shock Wave
+1	Linguistic Legerdemain
+1	Temporal Micro-Wormhole
+1	Ferengi Ambush
+1	Magnetic Field Disruptions
+1	Pinned Down
+1	Attention All Hands
+1	Armus - Skin of Evil
 1	Radioactive Garbage Scow
 1	Topological Anomaly 4747
-1	Gomtuu Shock Wave
-1	Friendly Fire
-1	Pinned Down
-1	Chula: The Chandra
-1	Linguistic Legerdemain
-1	Murder Investigation
-1	Chula: The Lights
-1	Dangerous Climb
-1	Picking Up the Pieces
-1	Flim-Flam Artist
-1	Ferengi Ambush
-1	Armus - Skin of Evil
-1	Punishment Box
+1	Ferengi Trading Post
 1	Assign Mission Specialists
 1	Continuing Mission
-1	Attention All Hands
-1	Ferengi Trading Post
-1	Temporal Micro-Wormhole
+QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+Aside:

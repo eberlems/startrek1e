@@ -1,62 +1,69 @@
-1	The Traveler: Transcendence
-2	Kivas Fajo: Collector
 1	Handshake
-1	Future Enterprise
-1	U.S.S. Enterprise-A
 1	Admiral Cartwright
-1	Admiral Janeway
 1	Admiral Leyton
 1	Admiral McCoy
-1	Admiral Riker
-1	Ambassador Sarek
-1	Jaresh-Inyo
-1	Matthew Dougherty
-1	Spock
-1	Geordi La Forge
-1	Data
-1	Mr. Scott (The Motion Pictures)
-1	Dr. McCoy
-1	Jadzia Dax
-1	Kira**
-1	Starfleet Type III Phaser Rifle
-1	Deanna Troi (First Contact)
 1	Altovar
-1	Carol Marcus
-1	John Harriman
+1	Ambassador Sarek
 1	Tam Elbrun
-1	Lt. Bailey
+1	Carol Marcus
+1	Deanna Troi (First Contact)
+1	Dr. McCoy
+1	Jaresh-Inyo
+1	John Harriman
+2	Kivas Fajo - Collector
 1	Lightner
+1	Lt. Bailey
+1	Matthew Dougherty
+1	Mr. Scott (The Motion Pictures)
+1	Starfleet Type III Phaser Rifle
+1	The Traveler: Transcendence
+1	U.S.S. Enterprise-A
+1	Kira**
+1	Admiral Riker (All Good Things Remastered)
+1	Future Enterprise
+1	Data
+1	Geordi La Forge
+1	Jadzia Dax
+1	Admiral Janeway (All Good Things Remastered)
+1	Spock
 1	Regenerate
 Missions:
-1	Espionage Mission
+1	Explore Dyson Sphere
 1	First Contact
 1	Investigate Massacre
 1	Repair Mission
 1	Study "Hole in Space"
-1	Explore Dyson Sphere
+1	Espionage Mission
 Seed+Dil:
-1	Alternate Universe Door
-1	Federation Outpost
+1	Hanonian Land Eel
+1	Ankari "Spirits"
+1	Denevan Neural Parasites
+1	Edo Probe
+1	Executive Authorization
+1	Horta
+1	Hull Breach
+1	Navigational Hazards (Voyager)
+1	Scientific Method
+1	The Cloud
+1	Unscientific Method
+1	V'Ger
+1	Mirror Image
+1	Dead End
+1	Friendly Fire
+1	"God"
+1	Maglock
 1	Office of the President
 1	HQ: Secure Homeworld
-1	Mirror Image
-1	Hanonian Land Eel
-1	Denevan Neural Parasites
 1	Primitive Culture
-1	Ankari "Spirits"
-1	Hull Breach
-1	Maglock
-1	Edo Probe
-1	Friendly Fire
-1	Dead End
-1	Horta
-1	"God"
-1	Executive Authorization
-1	V'Ger
-1	The Cloud
-1	Navigational Hazards (Voyager)
-1	Unscientific Method
+1	Alternate Universe Door
+1	Federation Outpost
 1	A Fast Ship Would Be Nice
-1	Scientific Method
 QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
 Aside:

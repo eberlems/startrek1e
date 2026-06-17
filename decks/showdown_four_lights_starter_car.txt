@@ -30,7 +30,7 @@
 1	Dolak
 1	Gul Madred
 1	Macet
-1	Reklar
+1	Reklar (All Good Things Remastered)
 Missions:
 1	Recover Prisoner
 1	Locate Terrorist Leader

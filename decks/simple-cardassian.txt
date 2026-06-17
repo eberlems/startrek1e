@@ -8,7 +8,7 @@
 1	Danar
 1	Dr. Reyga
 1	Groumall
-2	Kivas Fajo: Collector
+2	Kivas Fajo - Collector
 1	Legate Damar
 1	Lemec
 1	Macet

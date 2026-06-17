@@ -2,7 +2,7 @@
 1	Get It Done
 1	Koral (The Next Generation)
 1	Vash (The Next Generation)
-1	Sunad
+1	Sunad (All Good Things Remastered)
 1	Vekor
 1	Tallera
 2	Science Vessel
@@ -64,6 +64,6 @@ Tactics:
 Tribbles:
 Sites:
 Outside:
-Aside:
 1	D'Lors
 1	Palteth
+Aside:

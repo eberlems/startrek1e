@@ -82,7 +82,7 @@ QsTent:
 1	Starfleet Type II Phaser
 1	Get It Done
 1	Establish Landing Protocols
-1	Escape Pod
+1	Escape Pod (Premiere Remastered)
 1	Alyssa Ogawa
 1	Get Him Cleaned Up
 1	Federation PADD

@@ -2057,6 +2057,17 @@ NEW
         Icheb
         Soong-type Android
 
+5.2.3
+-----
+(Eberlems)
+    ->Changed
+        Cellular Peptide Cake
+        Excavation (Premiere Traditional)
+        Excavation (Premiere Remastered)
+        J'Ddan (Premiere Traditional)
+        Mas'ud
+        Taibak (Premiere Traditional)
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

@@ -16,7 +16,7 @@
 1	Jean-Luc Picard (Chain of Command)
 1	Spock
 1	Worf
-1	Sunad
+1	Sunad (All Good Things Remastered)
 1	Vekor
 1	U.S.S. Enterprise (Chain of Command)
 2	U.S.S. Oberth
@@ -51,7 +51,7 @@ Seed+Dil:
 1	A Bad End
 1	Continuing Mission
 1	It's Green
-1	Armus - Sticky Situation
+1	Armus: Sticky Situation
 1	Lack of Preparation
 1	Federation Outpost
 1	Nagilum: Test Subjects
