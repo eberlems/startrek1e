@@ -2067,6 +2067,14 @@ NEW
         J'Ddan (Premiere Traditional)
         Mas'ud
         Taibak (Premiere Traditional)
+        
+5.2.4
+-----
+(Eberlems)
+    ->Changed
+        Temporal Narcosis
+        Remodulation
+        Superior Surgical Knowledge
 
 ------------------------------
 Plugin former main maintainer - Scox

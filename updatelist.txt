@@ -1,6 +1,6 @@
-startrek1e	06-17-26
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39228
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3880626
+startrek1e	08-15-26
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39229
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3889579
 plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	1453117
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	665647
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	699874
@@ -80,8 +80,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/eberlems/
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	1491611
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	13171796
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	1494130
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	13217309
 plugins/startrek1e/sets/Overlays.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Overlays.txt	87493
 plugins/startrek1e/sets/Rework.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Rework.txt	11325417
 plugins/startrek1e/sets/Renamed_cards.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Renamed_cards.txt	215886
