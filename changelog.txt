@@ -2076,6 +2076,21 @@ NEW
         Remodulation
         Superior Surgical Knowledge
 
+5.2.5
+-----
+(Eberlems)
+    ->Add
+        Star Trek 60: The Diamond Anniversary Collection
+    ->Changed
+        Anti-Matter Pod
+        Berlingoff Rasmussen
+        Dr. Tolian Soran
+        George and Gracie
+        Nine of Twelve
+        Sonya Gomez
+        The Charybdis
+        Ultimatum
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

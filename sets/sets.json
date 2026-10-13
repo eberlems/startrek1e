@@ -628,5 +628,12 @@
     "abbr": "TtJ",
     "code": "TtJ",
     "virtual": true
+  },
+  {
+    "id": "262",
+    "name": "Star Trek 60: The Diamond Anniversary Collection",
+    "abbr": "60th",
+    "code": "60th",
+    "virtual": true
   }
 ]

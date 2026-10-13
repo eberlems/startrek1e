@@ -24,3 +24,4 @@ Espionage - Dominion on Federation	renamed	renamed	dom	C			Event																
 Espionage - Dominion on Klingon	renamed	renamed	dom	C			Event																				Renamed to Espionage - Dominion on Klingon
 Espionage - Dominion on Romulan	renamed	renamed	dom	C			Event																				Renamed to Espionage - Dominion on Romulan
 Engineering Kit (Voyager)	renamed	renamed	voy	S			Event																				Renamed to Engineering Kit (Premiere Remastered) (Voyager)
+Berlingoff Rasmussen	renamed	renamed	au	R			Personnel																				Renamed to Berlinghoff Rasmussen
