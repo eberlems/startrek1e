@@ -25,3 +25,8 @@ Espionage - Dominion on Klingon	renamed	renamed	dom	C			Event																			
 Espionage - Dominion on Romulan	renamed	renamed	dom	C			Event																				Renamed to Espionage - Dominion on Romulan
 Engineering Kit (Voyager)	renamed	renamed	voy	S			Event																				Renamed to Engineering Kit (Premiere Remastered) (Voyager)
 Berlingoff Rasmussen	renamed	renamed	au	R			Personnel																				Renamed to Berlinghoff Rasmussen
+Espionage: Starfleet on Vulcan	renamed	renamed	llap	4 V	ENT		Event																				Renamed to Espionage: United Earth on Vulcan
+Espionage: Vulcan on Starfleet	renamed	renamed	PreWarp	74 P	ENT		Event																				Renamed to Espionage: Vulcan on United Earth
+Treaty: Starfleet/Vulcan	renamed	renamed	PreWarp	75 P	ENT		Event																				Renamed to Treaty: United Earth/Vulcan
+Treaty: Starfleet/Klingon	renamed	renamed	SaS	11 V	ENT		Event																				Renamed to Treaty: United Earth/Klingon
+Starfleet Outpost	renamed	renamed	terran	18 V	ENT	univ	Facility																				Renamed to United Earth Outpost

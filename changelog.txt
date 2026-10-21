@@ -2090,6 +2090,17 @@ NEW
         Sonya Gomez
         The Charybdis
         Ultimatum
+        
+5.2.6
+-----
+(Eberlems)
+    ->Changed
+        Espionage: United Earth on Vulcan
+        Espionage: Vulcan on United Earth
+        Treaty: United Earth/Vulcan
+        Treaty: United Earth/Klingon
+        United Earth Outpost
+        Star Trek 60: The Diamond Anniversary Collection legal status
 
 ------------------------------
 Plugin former main maintainer - Scox
